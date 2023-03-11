@@ -946,6 +946,7 @@ footer .credits a {
 
 /* Extra updates */
 
-.swiper-slide{
-  image-resolution: 1200, 695;
+.myimg{
+  height: 1200px;
+  width: 695px;
 }
