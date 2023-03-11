@@ -941,3 +941,11 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+
+
+/* Extra updates */
+
+.swiper-slide{
+  image-resolution: 1200, 695;
+}
