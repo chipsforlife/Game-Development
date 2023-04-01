@@ -859,6 +859,7 @@ a:hover {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  background-color: #a3a3c2;
 }
 
 .portfolio-details .portfolio-details-slider img {
