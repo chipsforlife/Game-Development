@@ -171,6 +171,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  font-weight: bold;
 }
 
 .title-left:before {
@@ -919,6 +920,10 @@ a:hover {
 
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+
+.mb-5{
+  font-weight: bold;
 }
 
 
