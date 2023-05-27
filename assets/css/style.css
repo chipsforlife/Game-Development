@@ -862,9 +862,12 @@ a:hover {
   padding-top: 40px;
   background-color: #e6ffff;
 }
-
+.portfolio-details .portfolio-details-slider{
+  height:550px;
+}
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
+  object-fit: contain;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
